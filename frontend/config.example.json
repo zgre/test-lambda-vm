@@ -1,0 +1,6 @@
+{
+  "apiUrl": "https://xxxxxxxxxx.execute-api.us-east-1.amazonaws.com",
+  "region": "us-east-1",
+  "userPoolClientId": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "authDomain": "https://timetracker-123456789012.auth.us-east-1.amazoncognito.com"
+}
